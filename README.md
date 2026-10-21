@@ -1,6 +1,6 @@
 <div align="center">
 
-# Go Programming Language Basics
+# exercism
 
 **My learning journey through the [Exercism · Go Track](https://exercism.org/tracks/go)** 🐹
 
@@ -14,11 +14,11 @@
 
 ## 📖 About
 
-This repository documents my journey of learning **Go** on [Exercism](https://exercism.org/).
+This repository documents my journey of learning program language on [Exercism](https://exercism.org/).
 It contains my solutions to the official exercises as well as a few small programs I wrote on my own.
 
-- 👤 My Exercism profile: <https://exercism.org/profiles/touero/solutions?track_slug=go>
-- 📚 Go Track exercises: <https://exercism.org/tracks/go/exercises>
+- 👤 My Exercism profile: <https://exercism.org/profiles/touero>
+- 📚 Go Track exercises: <https://exercism.org/tracks/>
 
 
 ## 📄 License

@@ -2,7 +2,7 @@
 
 # exercism
 
-**My learning journey through the [Exercism · Go Track](https://exercism.org/tracks/go)** 🐹
+**My learning journey through the [Exercism](https://exercism.org/)** 🐹
 
 [![Exercism](https://img.shields.io/badge/Exercism-touero-9C4C8B?logo=exercism&logoColor=white)](https://exercism.org/profiles/touero/solutions?track_slug=go)
 [![Go](https://img.shields.io/badge/Go-1.27-00ADD8?logo=go&logoColor=white)](https://go.dev/)

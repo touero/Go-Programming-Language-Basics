@@ -18,7 +18,7 @@ This repository documents my journey of learning program language on [Exercism](
 It contains my solutions to the official exercises as well as a few small programs I wrote on my own.
 
 - 👤 My Exercism profile: <https://exercism.org/profiles/touero>
-- 📚 Go Track exercises: <https://exercism.org/tracks/>
+- 📚 Exercism exercises: <https://exercism.org/tracks/>
 
 
 ## 📄 License
